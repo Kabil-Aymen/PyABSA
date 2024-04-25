@@ -150,7 +150,6 @@ class T5Generator:
                 )
             ],
         }
-        print(ensemble_result)
         return ensemble_result
 
     def get_labels(
